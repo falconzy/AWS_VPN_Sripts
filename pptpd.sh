@@ -19,7 +19,7 @@
 # URL: http://yinhm.appspot.com/
 
 #Modified By :Zhao Yan
-#Change on package Name i386 to x86_64
+#Change to support 64 bit
 
 
 yum remove -y pptpd ppp
